@@ -1,0 +1,1 @@
+utillity function for version 1
